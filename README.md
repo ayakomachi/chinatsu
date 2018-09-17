@@ -15,3 +15,5 @@ To understand how to use github
 - [ ] Creat a project board
   - Create project board with basic kanban, Add this issue to project board, Add column Blockers into project board, Create a note in Project board
 - [ ] Creat a Pull request
+
+:blush:
